@@ -1,4 +1,4 @@
-# ECE49600.-kNN-traversal-with-KDtree-on-GPU
+# ECE49600.kNN-traversal-with-KDtree-on-GPU
 Instructor: Professor Milind Kulkarni
 
 The main code is in "two_bintree_approximate___CUDA/kernel.cu" written in C.
